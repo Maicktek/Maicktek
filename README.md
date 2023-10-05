@@ -1,12 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width:100% src="https://img.wallpapic.com/i1844-017-61/medium/planet-outer-space-universe-galaxy-wallpaper.jpg">
+<h1>MAICON<strong>JUVILESCHI</strong></h1>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://www.redeszone.net/app/uploads-redeszone.net/2018/04/amenazas-comunes-navegadores-930x478.jpg">
-<img width=40% align="center" src="https://github-readme.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact">
  </div>
  
  &nbsp;
