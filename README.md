@@ -1,12 +1,12 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://www.istockphoto.com/br/vetor/aumentando-a-criatividade-a-m%C3%A3o-wireframe-est%C3%A1-puxando-para-cima-at%C3%A9-a-barra-de-gm1620931451-531696324"/>
-&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px" width:100% src="https://www.istockphoto.com/br/vetor/aumentando-a-criatividade-a-m%C3%A3o-wireframe-est%C3%A1-puxando-para-cima-at%C3%A9-a-barra-de-gm1620931451-531696324"/>
+
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://www.redeszone.net/app/uploads-redeszone.net/2018/04/amenazas-comunes-navegadores-930x478.jpg/>
-<img width=40% align="center" src="https://github-readme-.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://www.redeszone.net/app/uploads-redeszone.net/2018/04/amenazas-comunes-navegadores-930x478.jpg"/>
+<img width=40% align="center" src="https://github-readme.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact"/>
  </div>
  
  &nbsp;
