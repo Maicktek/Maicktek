@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://www.bing.com/images/search?view=detailV2&ccid=TZsq4plR&id=3B3C03F119A9E7E34AD860BFFA6C684C4ABDE66B&thid=OIP.TZsq4plRUWGH-ql2696NSwHaEK&mediaurl=https%3a%2f%2fimages7.alphacoders.com%2f100%2fthumb-1920-1005643.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4d9b2ae29951516187faa976ebde8d4b%3frik%3da%252ba9SkxobPq%252fYA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=Imagens+De+Fundo+Planetas&simid=608007781580498699&FORM=IRPRST&ck=BF3DC1582693AD18933BF973807CF410&selectedIndex=1/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
